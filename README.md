@@ -1,9 +1,9 @@
 # GitHub CLI Enhancer
 
-[![GitHub license](https://img.shields.io/github/license/yourusername/github-cli-enhancer)](https://github.com/yourusername/github-cli-enhancer/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/github-cli-enhancer)](https://github.com/yourusername/github-cli-enhancer/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/github-cli-enhancer)](https://github.com/yourusername/github-cli-enhancer/network)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/github-cli-enhancer)](https://github.com/yourusername/github-cli-enhancer/issues)
+[![GitHub license](https://img.shields.io/github/license/amahmood561/github-cli-enhancer)](https://github.com/amahmood561/github-cli-enhancer/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/amahmood561/github-cli-enhancer)](https://github.com/amahmood561/github-cli-enhancer/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/amahmood561/github-cli-enhancer)](https://github.com/amahmood561/github-cli-enhancer/network)
+[![GitHub issues](https://img.shields.io/github/issues/amahmood561/github-cli-enhancer)](https://github.com/amahmood561/github-cli-enhancer/issues)
 
 A Python command-line tool that simplifies and automates common GitHub workflows. GitHub CLI Enhancer aims to save developers time by streamlining tasks such as creating issues, managing pull requests, and interacting with GitHub Actions—all from the command line.
 
@@ -20,7 +20,7 @@ A Python command-line tool that simplifies and automates common GitHub workflows
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/github-cli-enhancer.git
+   git clone https://github.com/amahmood561/github-cli-enhancer.git
    ```
 
 2. Navigate to the project directory:
@@ -112,7 +112,7 @@ You can create an issue, work on a branch named after that issue, open a pull re
 
 ## Contributing
 
-Contributions are welcome! Please check the [issues](https://github.com/yourusername/github-cli-enhancer/issues) tab for feature requests and bug reports. If you'd like to contribute:
+Contributions are welcome! Please check the [issues](https://github.com/amahmood561/github-cli-enhancer/issues) tab for feature requests and bug reports. If you'd like to contribute:
 
 1. Fork the project.
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
